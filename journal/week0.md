@@ -99,4 +99,4 @@ Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A
 
 A CloudWatch Alarm that triggers the AWS bill reaches the specified threshold
 
-
+![snstopic](snstopicscreen.png)
