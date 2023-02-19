@@ -103,8 +103,10 @@ Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A
 
 ![snstopic](assets/subscribetotopic.png)
 
-## Created Budget Alarm
+## Created Billing Alarm
 
 A CloudWatch Alarm that triggers the AWS bill reaches the specified threshold
+
+![snstopic](assets/Billing Alarm.png)
 
 
