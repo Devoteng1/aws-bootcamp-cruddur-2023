@@ -23,11 +23,12 @@ ON LINUX
 AWS Budgets lets you set custom cost and usage budgets that alert you when your budget thresholds are exceeded (or forecasted to exceed).
 
 Script to create AWS Budget using the AWS CLI
-
+```
 aws budgets create-budget \
     --account-id 820150472448 \
     --budget file://aws/json/budget.json \
     --notifications-with-subscribers file://aws/json/budget-notification-with-subscribers.json
+```
 
 Content of budget.json
 ```
