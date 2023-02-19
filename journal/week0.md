@@ -16,4 +16,4 @@ ON LINUX
 - unzip awscliv2.zip
 - sudo ./aws/install
 
-![AWS CLI](/aws-bootcamp-cruddur-2023/_docs/assets//AWSCLIsetup.png)
+![AWS CLI](./assets//AWSCLIsetup.png)
