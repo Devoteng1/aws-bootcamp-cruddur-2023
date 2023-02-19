@@ -64,7 +64,7 @@ Content of budget.json
 }
 ```
 Content of budget-notification-with-subscribers.json
-
+```
 [
     {
         "Notification": {
@@ -81,6 +81,7 @@ Content of budget-notification-with-subscribers.json
         ]
     }
 ]
+```
 ![budgetscreen](budgetscreen.png)
 
 ![budgetsAWSCLI](createbudget_AWSCLI.png)
