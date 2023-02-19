@@ -2,4 +2,4 @@
 
 ## Created Logical architectual Diagram in Lucid charts  
 
-![Cruddur Graphic](_docs/assets/logicaldiagramCrudder.png)
+![Cruddur Graphic]([_docs/assets/logicaldiagramCrudder.png](https://github.com/Devoteng1/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/logicaldiagramCrudder.png))
