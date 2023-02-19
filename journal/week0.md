@@ -93,7 +93,7 @@ Content of budget-notification-with-subscribers.json
 
 Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A2P. A2A provides high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications
 
-
+![snstopic](assets/snstopicscreen.png)
 
 ### Subscribed to the SNS topic
 
@@ -107,4 +107,4 @@ Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A
 
 A CloudWatch Alarm that triggers the AWS bill reaches the specified threshold
 
-![snstopic](assets/snstopicscreen.png)
+
