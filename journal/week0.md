@@ -2,4 +2,4 @@
 
 ## Created Logical architectual Diagram in Lucid charts  
 
-![Cruddur Graphic](logicaldiagramCrudder.png)
+![](logicaldiagramCrudder.png)
