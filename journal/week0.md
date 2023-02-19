@@ -101,7 +101,7 @@ Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A
 
 ### Recieved Notification
 
-![snstopic](assets/SNSnotification.png)
+![snstopic](assets/subscribetotopic.png)
 
 ## Created Budget Alarm
 
