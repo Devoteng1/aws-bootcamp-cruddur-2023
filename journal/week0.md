@@ -86,7 +86,7 @@ Content of budget-notification-with-subscribers.json
 ]
 ```
 ![budgetscreen](budgetscreen.png)
-
+ 
 ![budgetsAWSCLI](createbudget_AWSCLI.png)
 
 ## Created AWS Simple Notification Service (SNS) Topic using AWS CLI
