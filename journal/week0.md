@@ -16,4 +16,4 @@ ON LINUX
 - unzip awscliv2.zip
 - sudo ./aws/install
 
-![AWS CLI](../assets//AWSCLIsetup.png)
+![AWS CLI](AWSCLIsetup.png)
