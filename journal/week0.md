@@ -30,7 +30,7 @@ aws budgets create-budget \
     --notifications-with-subscribers file://aws/json/budget-notification-with-subscribers.json
 
 Content of budget.json
-
+```
 {
     "BudgetLimit": {
         "Amount": "1",
@@ -62,7 +62,7 @@ Content of budget.json
     },
     "TimeUnit": "MONTHLY"
 }
-
+```
 Content of budget-notification-with-subscribers.json
 
 [
