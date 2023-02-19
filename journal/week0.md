@@ -2,4 +2,5 @@
 
 ## Created Logical architectual Diagram in Lucid charts  
 
-![](logicaldiagramCrudder.png)
+![logical Architecture](logicaldiagramCrudder.png)
+![lucidChart](https://lucid.app/documents/view/e730cc85-0176-4c52-8acc-f213e74868df)
