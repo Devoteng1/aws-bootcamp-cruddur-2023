@@ -2,4 +2,4 @@
 
 ## Created Logical architectual Diagram in Lucid charts  
 
-![logical diagram - Crudder](snstopic screen.png)
+![logical diagram - Crudder](_docs/assets/snstopic screen.png)
