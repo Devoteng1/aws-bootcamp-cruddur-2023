@@ -12,6 +12,6 @@ I have setup the AWS CLI both in the Gitpod workspace and the my local Desktop e
 In Gitpod, I used the below script to do the setup.
 ON LINUX
 
-curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
-unzip awscliv2.zip
-sudo ./aws/install
+- curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+- unzip awscliv2.zip
+- sudo ./aws/install
