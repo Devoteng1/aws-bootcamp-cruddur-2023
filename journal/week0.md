@@ -1,5 +1,7 @@
 # Week 0 — Billing and Architecture
 
+## Required Homework/Tasks
+
 ## Created Logical architectual Diagram in Lucid charts  
 
 ![logical Architecture](logicaldiagramCrudder.png)
@@ -18,7 +20,7 @@ ON LINUX
 
 ![AWS CLI](AWSCLIsetup.png)
 
-## Created AWS Budget
+## Created AWS Budget using the AWS CLI
 
 AWS Budgets lets you set custom cost and usage budgets that alert you when your budget thresholds are exceeded (or forecasted to exceed).
 
@@ -86,5 +88,9 @@ Content of budget-notification-with-subscribers.json
 ![budgetscreen](budgetscreen.png)
 
 ![budgetsAWSCLI](createbudget_AWSCLI.png)
+
+## Created AWS Simple Notification Service (SNS) Topic using AWS CLI
+
+Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A2P. A2A provides high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications
 
 
