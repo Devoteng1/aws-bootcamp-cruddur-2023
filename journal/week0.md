@@ -4,7 +4,7 @@
 
 ## Created Logical architectual Diagram in Lucid charts  
 
-![logical Architecture](logicaldiagramCrudder.png)
+![logical Architecture](assets/logicaldiagramCrudder.png)
 [[lucidChart](https://lucid.app/documents/view/e730cc85-0176-4c52-8acc-f213e74868df)](https://lucid.app/documents/view/e730cc85-0176-4c52-8acc-f213e74868df)
 
 ## Setup AWS CLI 
@@ -18,7 +18,7 @@ ON LINUX
 - unzip awscliv2.zip
 - sudo ./aws/install
 
-![AWS CLI](AWSCLIsetup.png)
+![AWS CLI](assets/AWSCLIsetup.png)
 
 ## Created AWS Budget using the AWS CLI
 
@@ -85,18 +85,18 @@ Content of budget-notification-with-subscribers.json
     }
 ]
 ```
-![budgetscreen](budgetscreen.png)
+![budgetscreen](assets/budgetscreen.png)
  
-![budgetsAWSCLI](createbudget_AWSCLI.png)
+![budgetsAWSCLI](assets/createbudget_AWSCLI.png)
 
 ## Created AWS Simple Notification Service (SNS) Topic using AWS CLI
 
 Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A2P. A2A provides high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications
 
-![snstopic](snstopicscreen.png)
+![snstopic](assets/snstopicscreen.png)
 
 ## Created Budget Alarm
 
 A CloudWatch Alarm that triggers the AWS bill reaches the specified threshold
 
-![snstopic](snstopicscreen.png)
+![snstopic](assets/snstopicscreen.png)
